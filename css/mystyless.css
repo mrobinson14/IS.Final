@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+    margin: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(30, 29, 29);
+}
+
+
+img{
+    max-width: 70%;
+}
+
+div.container {
+    text-align: center;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
+
+h1{
+    color: rgb(172, 0, 0);
+}
+
+h3{
+    color: rgb(30, 30, 98)
+}
+
+ol.myOL{
+    display: inline-block;
+    text-align: left;
+}
+
+.commonheader{
+    border: 5px outset red;
+    background-color: white;
+    text-align: center;
+}
+
+nav{
+    background-color: lightgray;
+    padding:10px;
+    overflow: hidden;
+
+}
+
+nav a{
+    padding: 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    /*float:left*/
+}
+
+nav a:hover{
+    background-color: #ccc;
+}
+
+.footer{
+    background-color: rgb(113, 5, 5);
+    color: white;
+}
+
